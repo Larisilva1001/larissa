@@ -1,6 +1,6 @@
 body{
     font-family: "Funnel Display", sans-serif;
-    bacground:blue;
+    background:blue;
     color:cornflowerblue;
     margin: 0px;
     margin-bottom: 100px
@@ -10,5 +10,17 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 80px;
-    margin
+    margin-bottom: 80px;
+}
+heder{
+    font-size: 40px;
+     color:steelblue;
+     border-bottom: 3px solid steelblue;
+     padding: 20px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
